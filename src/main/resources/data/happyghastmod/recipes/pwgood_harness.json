@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LWL",
+    "WJW",
+    "   "
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "W": {
+      "item": "minecraft:black_wool"
+    },
+    "J": {
+      "item": "minecraft:yellow_wool"
+    }
+  },
+  "result": {
+    "item": "happyghastmod:pwgood_harness",
+    "count": 1
+  }
+}

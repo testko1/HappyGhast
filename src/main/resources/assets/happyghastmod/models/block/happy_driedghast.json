@@ -1,0 +1,7 @@
+{
+  "parent": "happyghastmod:block/dried_ghast",
+  "textures": {
+    "1": "happyghastmod:block/happy_driedghast",
+    "particle": "happyghastmod:block/happy_driedghast"
+  }
+}

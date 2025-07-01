@@ -1,0 +1,96 @@
+{
+  "variants": {
+    "incubation_stage=dried,waterlogged=false,facing=north": {
+      "model": "happyghastmod:block/driedghast"
+    },
+    "incubation_stage=dried,waterlogged=true,facing=north": {
+      "model": "happyghastmod:block/driedghast"
+    },
+    "incubation_stage=dried,waterlogged=false,facing=east": {
+      "model": "happyghastmod:block/driedghast",
+      "y": 90
+    },
+    "incubation_stage=dried,waterlogged=true,facing=east": {
+      "model": "happyghastmod:block/driedghast",
+      "y": 90
+    },
+    "incubation_stage=dried,waterlogged=false,facing=south": {
+      "model": "happyghastmod:block/driedghast",
+      "y": 180
+    },
+    "incubation_stage=dried,waterlogged=true,facing=south": {
+      "model": "happyghastmod:block/driedghast",
+      "y": 180
+    },
+    "incubation_stage=dried,waterlogged=false,facing=west": {
+      "model": "happyghastmod:block/driedghast",
+      "y": 270
+    },
+    "incubation_stage=dried,waterlogged=true,facing=west": {
+      "model": "happyghastmod:block/driedghast",
+      "y": 270
+    },
+
+    "incubation_stage=neutral,waterlogged=false,facing=north": {
+      "model": "happyghastmod:block/neutral_dried_ghast"
+    },
+    "incubation_stage=neutral,waterlogged=true,facing=north": {
+      "model": "happyghastmod:block/neutral_dried_ghast"
+    },
+    "incubation_stage=neutral,waterlogged=false,facing=east": {
+      "model": "happyghastmod:block/neutral_dried_ghast",
+      "y": 90
+    },
+    "incubation_stage=neutral,waterlogged=true,facing=east": {
+      "model": "happyghastmod:block/neutral_dried_ghast",
+      "y": 90
+    },
+    "incubation_stage=neutral,waterlogged=false,facing=south": {
+      "model": "happyghastmod:block/neutral_dried_ghast",
+      "y": 180
+    },
+    "incubation_stage=neutral,waterlogged=true,facing=south": {
+      "model": "happyghastmod:block/neutral_dried_ghast",
+      "y": 180
+    },
+    "incubation_stage=neutral,waterlogged=false,facing=west": {
+      "model": "happyghastmod:block/neutral_dried_ghast",
+      "y": 270
+    },
+    "incubation_stage=neutral,waterlogged=true,facing=west": {
+      "model": "happyghastmod:block/neutral_dried_ghast",
+      "y": 270
+    },
+
+    "incubation_stage=happy,waterlogged=false,facing=north": {
+      "model": "happyghastmod:block/happy_driedghast"
+    },
+    "incubation_stage=happy,waterlogged=true,facing=north": {
+      "model": "happyghastmod:block/happy_driedghast"
+    },
+    "incubation_stage=happy,waterlogged=false,facing=east": {
+      "model": "happyghastmod:block/happy_driedghast",
+      "y": 90
+    },
+    "incubation_stage=happy,waterlogged=true,facing=east": {
+      "model": "happyghastmod:block/happy_driedghast",
+      "y": 90
+    },
+    "incubation_stage=happy,waterlogged=false,facing=south": {
+      "model": "happyghastmod:block/happy_driedghast",
+      "y": 180
+    },
+    "incubation_stage=happy,waterlogged=true,facing=south": {
+      "model": "happyghastmod:block/happy_driedghast",
+      "y": 180
+    },
+    "incubation_stage=happy,waterlogged=false,facing=west": {
+      "model": "happyghastmod:block/happy_driedghast",
+      "y": 270
+    },
+    "incubation_stage=happy,waterlogged=true,facing=west": {
+      "model": "happyghastmod:block/happy_driedghast",
+      "y": 270
+    }
+  }
+}

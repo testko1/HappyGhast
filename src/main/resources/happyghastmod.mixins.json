@@ -1,0 +1,34 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.nweaver.happyghastmod.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "happyghastmod.refmap.json",
+  "mixins": [
+    "HappyGhastPassengerMixin",
+    "HappyGhastRotationMixin",
+    "HappyGhastPassengerSyncMixin",
+    "MobAccessor",
+    "MobLeashLogicMixin",
+    "EntityStopRidingMixin",
+    "MobShearsInteractionMixin",
+    "MobOrientationMixin",
+    "FireworkLeashBreakMixin",
+    "entity.LivingEntityMixin",
+    "MobQuadLeashBehaviorMixin",
+    "BoatShearsInteractionMixin"
+  ],
+  "client": [
+    "MobRendererMixin",
+    "EntityLinkPacketMixin",
+    "MobRendererQuadLeashMixin",
+    "LivingEntityRendererQuadLeashTargetMixin",
+    "client.LevelRendererMixin",
+    "client.BoatRendererMixin"
+  ],
+  "server": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LLL",
+    "GWG",
+    "JJJ"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "W": {
+      "item": "minecraft:gray_wool"
+    },
+    "J": {
+      "item": "minecraft:black_wool"
+    }
+  },
+  "result": {
+    "item": "happyghastmod:white_harness",
+    "count": 1
+  }
+}
